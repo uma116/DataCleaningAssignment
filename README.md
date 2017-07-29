@@ -1,11 +1,8 @@
 # DataCleaningAssignment
 
-==================================================================
 Human Activity Recognition Using Smartphones Dataset
-==================================================================
 
-
-##The dataset includes the following files:
+#The dataset includes the following files:
 ===========================================
 
 - 'README.txt'
@@ -35,7 +32,7 @@ The following files are available for the train and test data. Their description
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
 
-##run_analysis.R is the script which does the following :
+#run_analysis.R is the script which does the following :
 
 
 New working folder is created and the data is downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip . 

@@ -1,10 +1,9 @@
 
 
-==================================================================
-Human Activity Recognition Using Smartphones Dataset
-==================================================================
 
-##Following files are available after the download is completed:
+Human Activity Recognition Using Smartphones Dataset
+
+#Following files are available after the download is completed:
 
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 
@@ -20,7 +19,7 @@ Human Activity Recognition Using Smartphones Dataset
 
 - 'test/y_test.txt': Test labels.
 
-##The following files are available for the train and test data. Their descriptions are equivalent. 
+#The following files are available for the train and test data. Their descriptions are equivalent. 
 
 - 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
@@ -31,7 +30,7 @@ Human Activity Recognition Using Smartphones Dataset
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
 
-##Following are the variable used in the script run_analysis.R to perform the following:
+#Following are the variable used in the script run_analysis.R to perform the following:
 
 
 1.Merges the training and the test sets to create one data set.
@@ -54,7 +53,7 @@ fnl_dataset_actylbl = variable that has the dataset in the ordered with the deta
 newdataset_mean = new dataset created with the average/mean values for each subject and activity.
 
 
-##Following are the variables for which the dataset has the measurements.
+#Following are the variables for which the dataset has the measurements.
 
 BodyAcc-mean-X
 tBodyAcc-mean-Y
